@@ -67,6 +67,22 @@ The report contains four pages:
 
 The Power BI report is included in `powerbi/fraud analysis.pbix`.
 
+
+### Dashboard Preview
+
+#### 1. Executive Risk Overview
+![Executive Risk Overview](screenshots/executive-risk-overview.png)
+
+#### 2. Fraud Patterns & Transaction Analysis
+![Fraud Patterns](screenshots/fraud-patterns.png)
+
+#### 3. Risk Intelligence & Investigation
+![Risk Intelligence](screenshots/risk-intelligence.png)
+
+#### 4. Business Recommendations
+![Business Recommendations](screenshots/business-recommendations.png)
+
+
 ## Repository Structure
 
 ```text
