@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Large datasets and generated outputs
+data/
+outputs/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and local configuration
+*.log
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
